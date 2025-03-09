@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # Home
 
 This documentation outlines key aspects of community policy in the CyberPatriot Discord, including rules, moderation policy, and more.
